@@ -1,0 +1,35 @@
+
+
+{
+
+    "delayStart": 10,
+
+    "fortniteAPI": {XXXXXXXXXXX
+
+        "apiKey": "63152cac-f9eb-456c-afbe-ace519cd1242
+
+"
+
+    },
+
+    "language": "tr",
+
+    "supportACreator": "Fn-Falsis",
+
+    "instagram": {
+
+        "enabled": true,
+
+        "apiKey": "XXXXXXXXXX",
+
+        "apiSecret": "XXXXXXXXXX",
+
+        "accessToken": "XXXXXXXXXX",
+
+        "accessSecret": "XXXXXXXXXX"
+
+    }
+
+}
+
+<!-- instagram hesap nicleri araya virgül koyarak yazınız ve XXXXXXXXXX olan yerleri doldurunuz--! >
