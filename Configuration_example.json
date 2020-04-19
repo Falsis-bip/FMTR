@@ -4,31 +4,23 @@
 
     "delayStart": 10,
 
-    "fortniteAPI" : { XX7ddabfe2  -  85  b2  -  48  c7  -  821  d  -  9  afbfe23a4a6} 
-
-        "apiKey"  : "67ddabfe2-85b2-48c7-821d-9afbfe23a4a6
-"
-
-    },
+    "fortniteAPI" : { DOLDUR} 
+        "apiKey"  :{"DOLDUR" },
 
     "language": "tr",
 
-    "supportACreator": "Fn-Falsis",
+    "supportACreator": "DOLDUR",
 
     "instagram" : "fnfalsis,fortnitemerkezii} 
 
         "enabled": true,
 
-        "apiKey":7ddabfe2-85b2-48c7-821d-9afbfe23a4a6XXXXXX",
+        "apiKey":DOLDUR", 
+        "apiSecret":DOLDUR",
 
-        "apiSecret":7ddabfe2-85b2-48c7-821d-9afbfe23a4a6XXXXXX",
+        "accessToken" : "DOLDUR" , 
 
-        "accessToken" : "539843855567028227" , "XXXX
-
-        "accessSecret":7ddabfe2-85b2-48c7-821d-9afbfe23a4a6XXXXXX"
-
+        "accessSecret":"DOLDUR", 
     }
 
 }
-
-<!-- instagram hesap nicleri araya virgül koyarak yazınız ve XXXXXXXXXX olan yerleri doldurunuz--! >
