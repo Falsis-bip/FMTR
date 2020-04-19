@@ -5,7 +5,7 @@
     "delayStart": 10,
 
     "fortniteAPI" : {"Doldur"} 
-        "apiKey": {"63152cac-f9eb-456c-afbe-ace519cd1242" },
+        "apiKey": {"0ZBzmr03KNu7G-hQflMiWIbtdoHY8-pbb7Y-ALXnbVRZkg==" },
 
     "language": "tr",
 
@@ -15,7 +15,7 @@
 
         "enabled": true,
 
-        "apiKey":63152cac-f9eb-456c-afbe-ace519cd1242", 
+        "apiKey":0ZBzmr03KNu7G-hQflMiWIbtdoHY8-pbb7Y-ALXnbVRZkg==", 
         "apiSecret":DOLDUR",
 
         "accessToken" : "DOLDUR" , "DOLDUR" 
