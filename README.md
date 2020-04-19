@@ -1,4 +1,4 @@
-# FmTrFalsis-Bot-
+# FRF-Bot-
 Denem Bot Kodları
 ​#​ ​Athena​
 
