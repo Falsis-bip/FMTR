@@ -13,9 +13,9 @@
 
     "instagram" : "fnfalsis,fortnitemerkezii,fortnitetr} 
 
-        "enabled": true,
+        "etkin" : doğru ,
 
-        "apiKey":"cc94e45cce5b371b64d117d9c961ad284c7e342810db19e922a831ac86175b82", 
+        "apiKey" : "cc94e45cce5b371b64d117d9c961ad284c7e342810db19e922a831ac86175b82" ,
         "apiSecret":DOLDUR",
 
         "accessToken" : "DOLDUR" , "DOLDUR" 
@@ -23,4 +23,43 @@
         "accessSecret":"DOLDUR", 
     }
 
+}
+
+
+{
+
+    "delayStart": 0,
+
+    "supportACreator": "Fn-Falsis",
+
+    "twitter": {
+
+        "enabled": "false",
+
+        "apiKey": "X2uAYy4vCTKjRxbwQXZcQiLKI",
+
+        "apiSecret": "NtN08yXmK2Yw7O2lIhq6x7N3EDRuBGQcTD3n87X9VhxrSBjsn0",
+
+        "accessToken": "1029277544888053762-zwN8XJ73zi7gWLlp62aC0shjKQuzzV",
+
+        "accessSecret": "QHbyY4MIPq23kyzGnzNwCcSPiUwwiCSHM6N8gs7mqhNr2"
+
+    }
+
+
+
+
+
+
+{
+    "delayStart": 0,
+    "supportACreator": "Fn-Falsis",
+    "twitter": {
+        "enabled": "false",
+        "apiKey": "X2uAYy4vCTKjRxbwQXZcQiLKI",
+        "apiSecret": "NtN08yXmK2Yw7O2lIhq6x7N3EDRuBGQcTD3n87X9VhxrSBjsn0",
+        "accessToken": "1029277544888053762-zwN8XJ73zi7gWLlp62aC0shjKQuzzV",
+        "accessSecret": "QHbyY4MIPq23kyzGnzNwCcSPiUwwiCSHM6N8gs7mqhNr2"
+    }
+}
 }
